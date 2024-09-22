@@ -1,6 +1,4 @@
-To create a proper `README.md` file for your diabetes project, I'll first go over the contents of your Jupyter notebook and understand its context, so I can provide accurate documentation. Let me take a look at the notebook first.
-
-The notebook you uploaded contains the implementation of a diabetes prediction project. The key components include:
+In this project contains the implementation of a diabetes prediction project. The key components include:
 
 1. **Data Loading and Preprocessing:** Data is loaded, cleaned, and prepared for analysis.
 2. **Exploratory Data Analysis (EDA):** Various visualizations and statistical summaries of the data.
